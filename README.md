@@ -9,9 +9,9 @@ Proyek ini merupakan bagian dari mata kuliah **Exploratory Data Analysis (KMTI21
 Pada tahap **M1**, fokus utama tim adalah merumuskan arah penelitian, mengamankan dataset mentah, menyusun kamus data, dan memastikan privasi data terjamin[cite: 5, 8].
 
 ### 1. Pertanyaan Analisis
-* **PA-1:** Bagaimana pola distribusi dan karakteristik utama dari variabel-variabel kunci dalam dataset?
-* **PA-2:** Apakah terdapat anomaly atau pelanggaran aturan bisnis pada hubungan antar-kolom[cite: 6]?
-* **PA-3:** Faktor/variabel apa saja yang memiliki korelasi kuat terhadap hasil utama[cite: 6]?
+* **PA-1:** Hari apa yang memiliki pinjaman sepeda terbanyak dalam satu hari?
+* **PA-2:** Berapa rata-rata penggunaan sepeda permusim?
+* **PA-3:** Apakah kecepata angin memengaruhi peminjaman sepeda perhari?
 
 ### 2. Dataset Mentah & Privasi Data
 * **Sumber Data:** Dataset mentah disimpan di folder `data/raw/` dan **tidak akan pernah diubah secara manual** untuk menjaga keterlacakan (*traceability*)[cite: 7].
