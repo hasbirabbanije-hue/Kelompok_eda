@@ -1,0 +1,4 @@
+dimensi,kolom,masalah,jumlah,persen,keparahan,rencana
+Akurasi,pulled_count,Jumlah total pull tidak sama dengan total C0-C7,9,8.74,Tinggi,Verifikasi sumber data rumus perhitungan pull atau hitung ulang total pull
+Konsistensi,region,"Kategori region tidak standar (Nod-Krai, Extra-Terresterial)",7,6.8,Rendah,Diskusikan dengan tim apakah kategori ini valid atau perlu dikelompokkan ke wilayah lain
+Kelengkapan,Semua kolom,Pemeriksaan missing values sejati (NaN),0,0.0,Rendah,"Pertahankan struktur data jika 0, atau tangani sesuai mekanisme kekosongan"
