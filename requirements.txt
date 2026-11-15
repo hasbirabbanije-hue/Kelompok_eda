@@ -1,0 +1,17 @@
+# Python 3.12 (diuji pada 3.12.3)
+# Pasang dengan:  pip install -r requirements.txt
+
+# --- Pengolahan data (01_quality, 02_cleaning, 03_univariate, 04_multivariate) ---
+pandas==3.0.6
+numpy==2.5.4
+
+# --- Visualisasi (03_univariate, 04_multivariate) ---
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# --- Statistik: Spearman, Pearson, Cramer's V (04_multivariate) ---
+scipy==1.18.1
+
+# --- Menjalankan notebook ---
+ipykernel==7.4.0
+jupyterlab>=4.0
