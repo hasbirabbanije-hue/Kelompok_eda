@@ -9,9 +9,9 @@ Proyek ini merupakan bagian dari mata kuliah **Exploratory Data Analysis (KMTI21
 Pada tahap **M1**, fokus utama tim adalah merumuskan arah penelitian, mengamankan dataset mentah, menyusun kamus data, dan memastikan privasi data terjamin.
 
 ### 1. Pertanyaan Analisis
-* **PA-1:** Hari apa yang memiliki pinjaman sepeda terbanyak dalam satu hari?
-* **PA-2:** Berapa rata-rata penggunaan sepeda permusim?
-* **PA-3:** Apakah kecepata angin memengaruhi peminjaman sepeda perhari?
+**P1**. Bagaimana sebaran jumlah pull (pulled_count) antar karakter, dan karakter mana yang ekstrem?
+**P2**. Apakah karakter yang lebih lama dirilis cenderung memiliki jumlah pull lebih besar, dan apakah polanya sama untuk bintang 4 dan bintang 5? (dijawab di notebook 04)
+**P3**. Apakah rarity berkaitan dengan status banner standar, dan apakah itu mengubah cara membaca hubungan lain? (dijawab di notebook 04)
 
 ### 2. Dataset Mentah & Privasi Data
 * **Sumber Data:** Dataset mentah disimpan di folder `data/raw/` dan **tidak akan pernah diubah secara manual** untuk menjaga keterlacakan (*traceability*).
